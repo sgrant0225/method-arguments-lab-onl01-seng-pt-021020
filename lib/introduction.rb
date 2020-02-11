@@ -1,2 +1,3 @@
-def method(name)
+def introduction(name)
+
 end  
